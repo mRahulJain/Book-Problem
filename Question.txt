@@ -1,6 +1,8 @@
 You are given N books, ith of which has P(i) pages (P(i) <= P(j), if i<j). You have to assign these N books to M students, such that each student has subsegment of books and the maximum number of pages assigned to a student is minimzed.
 You have to find the maximum number of pages, a student can have in this assignment of books. 
+
 Input Format:
 First line contains integers, N and M, denoting the number of books and number of students respectively. Next line contains N integers, denoting the number of pages in N books.
+
 Output Format:
 Print a single integer, denoting the answer.
